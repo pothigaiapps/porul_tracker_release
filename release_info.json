@@ -1,0 +1,17 @@
+{
+  "app_name": "Pothigai Tracker",
+  "platform": "Android (arm64-v8a)",
+  "version": "1.0.0",
+  "build_number": "1",
+  "release_timestamp": "2026-09-28 20:47:06",
+  "artifacts": [
+    {
+      "filename": "PothigaiTracker_v1.0.0_arm64.apk",
+      "type": "apk",
+      "abi": "arm64-v8a",
+      "size_bytes": 19838234,
+      "size_mb": 18.92,
+      "sha256": "423ac94d5c59c522c9bf093e881251db78f285574f76d3b9b062b821ad831d13"
+    }
+  ]
+}
